@@ -1,0 +1,2 @@
+# AI_Enable_Car_Parking_Using_OpenCV
+ Drivers frequently struggle with parking in crowded urban areas. Consider the scenario where you are traveling to a mall during a busy period. You see the parking lot is filled and many other cars are circling the area in search of open spots as you get closer to the mall.  AI-powered automated parking A project called OpenCV that uses computer vision hopes to automate parking. The goal of the project is to create an intelligent system that can recognize vacant parking spaces and provide a count of the available spaces.
